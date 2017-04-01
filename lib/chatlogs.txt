@@ -1,0 +1,4 @@
+|||Console|./media/images/admin.gif|<i><font color=#d32f2f><b>admin</b> Sang Moderator</font> Merefresh Chat.</i>
+|||Console|./media/images/admin.gif|<i><font color=#d32f2f>admin</font> Telah Meninggalkan Ruangan.</i>
+|||Console|./media/images/admin.gif|<i><font color=#d32f2f>unyu</font> Telah Meninggalkan Ruangan.</i>
+|||Console|./media/images/admin.gif|<i><font color=#d32f2f>admin</font> Telah Meninggalkan Ruangan.</i>
